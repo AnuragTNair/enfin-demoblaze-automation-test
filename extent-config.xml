@@ -1,0 +1,10 @@
+<extentreports>
+    <configuration>
+        <theme>STANDARD</theme>
+        <encoding>utf-8</encoding>
+        <protocol>HTTPS</protocol>
+        <reportName>Demoblaze Automation Report</reportName>
+        <documentTitle>Demoblaze Test Report</documentTitle>
+        <timelineEnabled>true</timelineEnabled>
+    </configuration>
+</extentreports>
